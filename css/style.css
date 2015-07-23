@@ -89,14 +89,19 @@ body{background-color;}
   transform: translate(-50%, -50%);
   
   }
- #hello{
+
+#water_insta{
   float:right;
-  position:fixed;
-  top: 27%;
-  right: 50%;
+  position: fixed;
+  top: 37%;
+  right: 57.5%;
   margin-right: -50%;
   transform: translate(-50%, -50%);
+  height: 52px;
+  width:52px;
+  
   }
+
   #blue_mail{
   float:right;
   position: fixed;
@@ -106,6 +111,16 @@ body{background-color;}
   transform: translate(-50%, -50%);
   
   }
+
+ #hello{
+  float:right;
+  position:fixed;
+  top: 27%;
+  right: 50%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%);
+  }
+
   #flower_mirror{
   float:right;
   position: fixed;
@@ -129,8 +144,17 @@ body{background-color;}
   width:600px;
   height:auto;
   top:100%;
+  
 }
 
 center {
   margin-top: 25%
 }
+
+#outfit_description{
+  font-family: 'Dancing Script', cursive;	font-style: normal;
+  font-size: 30px;
+}
+
+
+

@@ -127,8 +127,28 @@ ul{
 #link{
   font-size:30px;
   text-align: center;
+  top:30%;
 }
 #writing{
   font-size:27px;
-  padding:50px;
+  padding:150px;
+  background-color: rgb(255,249,251);
+  margin: 190px;
+}
+
+#bsm1{
+  float:center;
+  width:600px;
+  height:auto;
+  top:100%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#elf{
+  float:center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
