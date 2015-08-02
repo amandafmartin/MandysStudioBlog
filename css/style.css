@@ -90,17 +90,56 @@ body{background-color;}
   
   }
 
-#water_insta{
+#facebook{
   float:right;
   position: fixed;
-  top: 37%;
-  right: 57.5%;
+  top: 38%;
+  right: 55.57%;
   margin-right: -50%;
   transform: translate(-50%, -50%);
   height: 52px;
   width:52px;
   
   }
+
+#instagram{
+  float:right;
+  position: fixed;
+  top: 49%;
+  right: 55.57%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%);
+  height: 52px;
+  width:52px;
+  
+  }
+
+#pinterest{
+  float:right;
+  position: fixed;
+  top: 49%;
+  right: 60.555%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%);
+  height: 50px;
+  width:50px;
+  
+  }
+
+#twitter{
+  float:right;
+  position: fixed;
+  top: 49%;
+  right: 50.8%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%);
+  height: 50px;
+  width:50px;
+  
+  }
+
+
+
 
   #blue_mail{
   float:right;
@@ -156,5 +195,28 @@ center {
   font-size: 30px;
 }
 
-
+#bottom-navigation{
+  color:rgb(255,255,255);
+  height: 75px;
+  font-family: Parkavenue, cursive; monospace;
+	font-size: 15px;
+	font-style: normal;
+	font-variant: normal;
+  text-align: center;
+	font-weight: 500;
+	line-height: 30px;
+  word-spacing:95px;
+  float: center;
+/*   border: 10px solid rgb(255,240,245); */
+  position: absolute;
+  top: 2900px;
+  position:center;
+  left: 50%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%);
+  padding: 10px;
+  margin:20px;
+  
+}
+  
 

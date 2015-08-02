@@ -149,10 +149,12 @@
 #link{
   font-size:35px;
   text-align: center;
+  font-family: 'Shadows Into Light', cursive;
 }
 #writing{
   font-size:27px;
   padding:50px;
+  font-family: 'Shadows Into Light', cursive;
 }
 
 #grad-day{
@@ -202,3 +204,50 @@ a:active {
   margin:100px;
   position:absolute;
 } */
+
+
+#facebook{
+  float:right;
+  position: absolute;
+  top: 38%;
+  right: 55.57%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%);
+  height: 52px;
+  width:52px;
+  
+  }
+
+#instagram{
+  float:right;
+  position: absolute;
+  top: 49%;
+  right: 55.57%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%);
+  height: 52px;
+  width:52px;
+  
+  }
+#pinterest{
+  float:right;
+  position: absolute;
+  top: 49%;
+  right: 60.555%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%);
+  height: 50px;
+  width:50px;
+  
+  }
+#twitter{
+  float:right;
+  position: absolute;
+  top: 49%;
+  right: 50.8%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%);
+  height: 50px;
+  width:50px;
+  
+  }

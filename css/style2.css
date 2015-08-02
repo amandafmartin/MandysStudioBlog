@@ -131,6 +131,7 @@ ul{
 #writing{
   font-size:27px;
   padding:90px;
+  font-family: 'Shadows Into Light', cursive;
 }
 
 #bsm1{
@@ -167,3 +168,52 @@ ul{
   top:98%;
 }
 
+#facebook{
+  float:right;
+  position: absolute;
+  top: 38%;
+  right: 55.57%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%);
+  height: 52px;
+  width:52px;
+  
+  }
+
+#instagram{
+  float:right;
+  position: absolute;
+  top: 49%;
+  right: 55.57%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%);
+  height: 52px;
+  width:52px;
+  
+  }
+#pinterest{
+  float:right;
+  position: absolute;
+  top: 49%;
+  right: 60.555%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%);
+  height: 50px;
+  width:50px;
+  
+  }
+#twitter{
+  float:right;
+  position: absolute;
+  top: 49%;
+  right: 50.8%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%);
+  height: 50px;
+  width:50px;
+  
+  }
+
+#link{
+  font-family: 'Shadows Into Light', cursive;
+}
