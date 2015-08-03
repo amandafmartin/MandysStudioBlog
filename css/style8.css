@@ -1,0 +1,82 @@
+ #pink_heart{
+  float:right;
+  position: fixed;
+  top: 37%;
+  right: 53%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%);
+  
+  }
+ #hello{
+  float:right;
+  position:fixed;
+  top: 27%;
+  right: 50%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%);
+  }
+  #blue_mail{
+  float:right;
+  position: fixed;
+  top: 37%;
+  right: 63%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%);
+  
+  }
+  #flower_mirror{
+  float:right;
+  position: fixed;
+  top: 33%;
+  right: 40%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%);
+  width:300px;
+  height:450px;
+  
+  }
+#facebook{
+  float:right;
+  position: absolute;
+  top: 38%;
+  right: 55.57%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%);
+  height: 52px;
+  width:52px;
+  
+  }
+
+#instagram{
+  float:right;
+  position: absolute;
+  top: 49%;
+  right: 57.57%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%);
+  height: 52px;
+  width:52px;
+  
+  }
+#pinterest{
+  float:right;
+  position: absolute;
+  top: 49%;
+  right: 60.555%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%);
+  height: 50px;
+  width:50px;
+  
+  }
+#twitter{
+  float:right;
+  position: absolute;
+  top: 49%;
+  right: 50.8%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%);
+  height: 50px;
+  width:50px;
+  
+  }
